@@ -1,0 +1,66 @@
+{
+  "home": {
+    "greeting": "Welcome to my portfolio",
+    "description": "I am a passionate software developer dedicated to building scalable and user-friendly applications. Explore my work, skills, and background to learn more about what I do.",
+    "imagePath": "/profile.jpg"
+  },
+  "about": {
+    "Name": "Dipta Bhattacharjee",
+    "Education": "BSc 4th yeaar running, at the University of Dhaka",
+    "Major": "Computer Science & Engineering",
+    "Interests": "computers, hiking, music etc.",
+    "Achievements": "Participated in multiple programming contests and CTF competitions.",
+    "Skills":  "Python, Java, C++, web dev, fastapi, react, AI/ML, Databases etc.",
+    "Projects": "Snake game, Social Media platform, Hall Management mobile application, Football Tournaent maker, Automation apps, etc.",
+    "Contact": {
+      "Email": "dipta-2022115881@cs.du.ac.bd",
+      "Phone": "......."
+    }
+  },
+  "projects": [
+    {
+      "name": "Snake game",
+      "tools": "C++, SDL2",
+      "description": "A basic snake game built using C++ programming and SDL2.Worked on this as a team of 3 members"
+    },
+    {
+      "name": "Social Media",
+      "tools": "JavaFx, Java, SQLlite",
+      "description": "A social media platform using java programming.Worked on this as a team of 4 members"
+    },
+    {
+      "name": "Hall Management Mobile Application",
+      "tools": "Flutter, FastAPI, MongoDB", 
+      "description": "A fully functional hall managemnt platform for managing university student's hall students and facilities. Worked on this as a team of 4 members"
+    },
+    {
+      "name": "Football Tournament Maker",
+      "tools": "React, Supabase",
+      "description": "A web application for managing football tournaments. Features including automatic result calculations. Managing players, teams and venues efficiently."
+    },
+    {
+      "name": "Task Automation",
+      "tools": "React, Tauri rust",
+      "description": "Allowing an user to create different tasks and automatically execute them as many times as they want. Worked on this as a team of 3 members"
+    }
+    
+  ],
+  "skills": [
+    "JavaScript",
+    "Python",
+    "Java",
+    "C++",
+    "React",
+    "Node.js",
+    "Web Development",
+    "SQL / NoSQL",
+    "Git / GitHub",
+    "Problem Solving"
+  ],
+  "others": [],
+  "contact": {
+    "email": "dipta-2022115881@cs.du.ac.bd",
+    "linkedin": "https://www.linkedin.com/in/dipta-bhattacharjee-782009391/",
+    "github": "https://github.com/dipta11"
+  }
+}
